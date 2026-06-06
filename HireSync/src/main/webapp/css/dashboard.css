@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.header {
+       background-color: white;
+
+    color: black;
+    height: 70px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0 25px;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+}
+
+svg {
+	padding:20px;
+    height: 80px;
+    width: auto;
+}
